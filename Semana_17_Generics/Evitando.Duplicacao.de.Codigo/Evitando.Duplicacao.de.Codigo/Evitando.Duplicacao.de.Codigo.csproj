@@ -56,6 +56,10 @@
     <Compile Include="Exercicios\Exercicio2.cs" />
     <Compile Include="Exercicios\Exercicio3.cs" />
     <Compile Include="Exercicios\Exercicio4.cs" />
+    <Compile Include="Exercicios\Resolucao\Exercicio1.cs" />
+    <Compile Include="Exercicios\Resolucao\Exercicio2.cs" />
+    <Compile Include="Exercicios\Resolucao\Exercicio3.cs" />
+    <Compile Include="Exercicios\Resolucao\Exercicio4.cs" />
     <Compile Include="Generics\1.SemGenerics\ListaObjetos.cs" />
     <Compile Include="Generics\2.ComGenerics\1.ListaObjetos.cs" />
     <Compile Include="Generics\2.ComGenerics\3.Restricoes.cs" />
